@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "i18n-node": "^2.1.5"
+  },
+  "name": "git_version",
+  "version": "1.0.0",
+  "description": "Learning git version vs i18n-node internationalization and localezation",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "master"
+  },
+  "author": "Wekil yazgulyyew",
+  "license": "ISC"
+}
